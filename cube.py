@@ -10,7 +10,7 @@ if rubikscube==0:
     print("the color is green")
 
 elif rubikscube==1:
-    print("the color is green")
+    print("the color is red")
 
 elif rubikscube==2:
     print("The color is blue")
